@@ -18,8 +18,8 @@ exports.userResetpasswordMail = async (request, response, next) => {
         });
         if (user) {
             const sender = {
-                email: 'shlokthegamer@gmail.com',
-                name: 'Shlok'
+                email: 'forgotpassword@chatapp.com',
+                name: 'Admin'
             }
             const receivers = [
                 {
