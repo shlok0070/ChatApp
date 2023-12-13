@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "mufil rahman a",
+  "author": "Shlok Saraf",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.438.0",
